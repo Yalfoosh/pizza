@@ -4,7 +4,7 @@ A collection of programs for making pizza
 
 ## Installation
 
-WIP
+Position into the root project directory (`pizza`). Activate an environment for this project (from here on out called `env_name`), or create it - **Python 3.8.5** was initially used for this project. Run `pip install -r requirements.txt`. Run `conda install ipykernel` (or however you want to install the `ipykernel`). Run `python3 -m ipykernel install --user --name=env_name`.
 
 ## Execution
 
